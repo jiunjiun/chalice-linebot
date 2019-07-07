@@ -1,0 +1,13 @@
+{
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api",
+      "environment_variables": {
+      	"LINEBOT_CHANNEL_SECRET": "",
+      	"LINEBOT_CHANNEL_ACCESS_TOKEN": ""
+      }
+    }
+  },
+  "version": "2.0",
+  "app_name": "linebot"
+}

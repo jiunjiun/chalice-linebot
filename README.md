@@ -62,6 +62,9 @@ $ cp .chalice/config.json.sample .chalice/config.json
 * LINEBOT_CHANNEL_SECRET: 填入你 [Line Bot](https://developers.line.biz/console/) 的 `Channel secret`
 * LINEBOT_CHANNEL_ACCESS_TOKEN: 填入你 [Line Bot](https://developers.line.biz/console/) 的 `Channel access token`
 
+![Alt text](/docs/imgs/p2.png?raw=true "Title")
+![Alt text](/docs/imgs/p3.png?raw=true "Title")
+
 ## Deploy
 
 設定完上面項目就可以開始 `Deploy`
@@ -80,6 +83,8 @@ Rest API URL: https://<random>.execute-api.ap-northeast-1.amazonaws.com/api
 ```
 <random>.execute-api.ap-northeast-1.amazonaws.com/api/callback
 ```
+![Alt text](/docs/imgs/p4.png?raw=true "Title")
+
 
 ## 設定 Line Bot
 
@@ -91,5 +96,7 @@ Rest API URL: https://<random>.execute-api.ap-northeast-1.amazonaws.com/api
 2. 點選右上角 `設定`
 3. 點選左邊 `回應設定`
 4. 停用`自動回應訊息`, 啟用`Webhook`
+
+![Alt text](/docs/imgs/p1.png?raw=true "Title")
 
 這個時候你加你的Line Bot 就會回應你的訊息

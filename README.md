@@ -100,3 +100,8 @@ Rest API URL: https://<random>.execute-api.ap-northeast-1.amazonaws.com/api
 ![Alt text](/docs/imgs/p1.png?raw=true "Title")
 
 這個時候你加你的Line Bot 就會回應你的訊息
+
+
+## Ref.
+[40行で書ける！ Serverless LINE BOT](https://www.slideshare.net/linecorp/40-serverless-line-bot)
+[github.com/c-bata/chalice-linebot](https://github.com/c-bata/chalice-linebot)
